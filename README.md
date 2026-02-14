@@ -32,7 +32,7 @@ The lab contained the main steps that include:
 2. Understanding the impact of feature selection on clustering
 3. Experience with k-Means and OpenCV
 4. Visualization of clustering results for interpretation
-5. 
+
 ## Conclusion
 This lab provides practical insight into distance-based classification and clustering techniques. By combining face detection, feature extraction, and k-Means clustering, the experiment demonstrated how unsupervised learning can be applied to real-world image analysis tasks.
 
