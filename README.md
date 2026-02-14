@@ -19,6 +19,7 @@ The lab contained the main steps that include:
 ## Results and Observations
 
 <img width="639" height="451" alt="Figure1" src="https://github.com/user-attachments/assets/4e154eb8-3fe2-4aae-81fc-32e90f810698" />
+
 The model took as input the image of plaksha faculty and distinguished between all of them. It detected 30 faces of plaksha faculty and clustered them based on hue and saturation. It used k-Means clustering to identify the faculty based on different facial features. It seperates the data points into two clusters with each cluster plots in 2D feature space. Additionally, the model also has labels, legends and grid for interpretation as well as easier understanding.
 
 <img width="716" height="390" alt="Screenshot 2026-02-14 at 4 28 01 PM" src="https://github.com/user-attachments/assets/759e0703-247b-44c0-a03d-b5c42b3832bb" />
